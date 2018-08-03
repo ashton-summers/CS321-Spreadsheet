@@ -1,0 +1,23 @@
+C:\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\bin\Debug\Spreadsheet_ASummers.exe.config
+C:\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\bin\Debug\Spreadsheet_ASummers.exe
+C:\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\bin\Debug\Spreadsheet_ASummers.pdb
+C:\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\bin\Debug\SpreadsheetEngine.dll
+C:\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\bin\Debug\SpreadsheetEngine.pdb
+C:\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.csprojResolveAssemblyReference.cache
+C:\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.Form1.resources
+C:\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.Properties.Resources.resources
+C:\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.csproj.GenerateResource.Cache
+C:\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.exe
+C:\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.pdb
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.csprojResolveAssemblyReference.cache
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.Form1.resources
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.Properties.Resources.resources
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.csproj.GenerateResource.Cache
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.exe
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.pdb
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\obj\Debug\Spreadsheet_ASummers.csproj.CoreCompileInputs.cache
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\bin\Debug\Spreadsheet_ASummers.exe.config
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\bin\Debug\Spreadsheet_ASummers.exe
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\bin\Debug\Spreadsheet_ASummers.pdb
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\bin\Debug\SpreadsheetEngine.dll
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\Spreadsheet_ASummers\bin\Debug\SpreadsheetEngine.pdb

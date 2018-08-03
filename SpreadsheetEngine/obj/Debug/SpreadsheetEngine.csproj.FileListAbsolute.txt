@@ -1,0 +1,10 @@
+C:\Documents\CS321\Spreadsheet_ASummers\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Documents\CS321\Spreadsheet_ASummers\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Documents\CS321\Spreadsheet_ASummers\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache
+C:\Documents\CS321\Spreadsheet_ASummers\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Documents\CS321\Spreadsheet_ASummers\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+Z:\Mac Backup\WindowsVmFiles\Documents\CS321\Spreadsheet_ASummers\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
